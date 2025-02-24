@@ -1,0 +1,2 @@
+Machine learning models learn patterns from data using neural networks.
+Training pipelines require careful feature engineering and evaluation metrics.
