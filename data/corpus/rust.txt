@@ -1,0 +1,2 @@
+Rust is a systems programming language focused on safety and performance.
+Many developers choose Rust for command line tools and blockchain nodes.
